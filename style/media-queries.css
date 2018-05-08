@@ -1,0 +1,181 @@
+@charset "utf-8";
+/* CSS Document */
+/****
+Author name: Treasure Khumalo
+Author URL www.iamtreasure.me
+
+****/
+
+@media(min-width: 320px) and (max-width: 360px) {
+	.intro img {
+		height: 200px;
+	}
+	
+	.intro h1 {
+		font-size: 70px;
+		color: #fff;
+		padding: 15% 0;
+		text-align: center;
+}
+	
+	.about-wrapper h1, .services-wrapper h1, .gallery-wrapper h1, .clients-wrapper h1, .contact-wrapper h1 {
+		font-size: 27px;
+	}
+	
+	.about-wrapper h2, .services-wrapper h2, .gallery-wrapper h2, .clients-wrapper h2, .contact-wrapper h2 {
+		font-size: 25px;
+	}
+	
+  	.about-info-panel {
+  		margin: 0 ;
+    	margin-bottom: 1% ;
+  		padding: 10px;
+	  	margin-left: 0;
+  	}
+
+  	.about-info-panel p {
+  		color: #fff;
+  		font-size: 18px;
+  	}
+	
+	.client-group img {
+		
+		margin: 5% 0;
+	}
+	input[type="submit"] {
+	 	padding: 18px;
+	 	color: #fff;
+	 	font-size: 20px;
+	 	background-color: #d37802;
+	 	margin-top: 2%;
+	 	border: 0;
+	 	border-radius: 40px;
+	 	width: 40%;
+ 	}
+}
+
+@media(min-width: 375px) and (max-width: 384px) {
+	.intro img {
+		height: 200px;
+	}
+	
+	.intro h1 {
+		font-size: 70px;
+		color: #fff;
+		padding: 15% 0;
+		text-align: center;
+	}
+	
+	.about-wrapper h1, .services-wrapper h1, .gallery-wrapper h1, .clients-wrapper h1, .contact-wrapper h1 {
+		font-size: 29px;
+	}
+	
+	.about-wrapper h2, .services-wrapper h2, .gallery-wrapper h2, .clients-wrapper h2, .contact-wrapper h2 {
+		font-size: 27px;
+	}
+	
+  	.about-info-panel p {
+    	color: #fff;
+    	font-size: 18px;
+  	}
+
+	.about-info-panel {
+	  	background-color: #000000;
+	  	border-radius: 5px;
+	  	margin: 1%;
+	  	padding: 15px;
+		margin-left: 0;
+	}
+
+	input[type="submit"] {
+	 	padding: 18px;
+	 	color: #fff;
+	 	font-size: 20px;
+	 	background-color: #d37802;
+	 	margin-top: 2%;
+	 	border: 0;
+	 	border-radius: 40px;
+	 	width: 40%;
+ 	}
+}
+
+@media(min-width: 412px) and (max-width: 420px) {
+	.intro img {
+		height: 200px;
+	}
+	
+	.intro h1 {
+		font-size: 75px;
+		color: #fff;
+		padding: 15% 0;
+		text-align: center;
+}
+	
+	.about-wrapper h1, .services-wrapper h1, .gallery-wrapper h1, .clients-wrapper h1, .contact-wrapper h1 {
+		font-size: 31px;
+	}
+	
+	.about-wrapper h2, .services-wrapper h2, .gallery-wrapper h2, .clients-wrapper h2, .contact-wrapper h2 {
+		font-size: 29px;
+	}
+	
+  	.about-info-panel p {
+    	color: #fff;
+    	font-size: 18px;
+  	}
+
+	.about-info-panel {
+	  	background-color: #000000;
+	  	border-radius: 5px;
+	  	margin: 1%;
+	  	padding: 15px;
+		margin-left: 0;
+	}
+
+	input[type="submit"] {
+	 	padding: 18px;
+	 	color: #fff;
+	 	font-size: 20px;
+	 	background-color: #d37802;
+	 	margin-top: 2%;
+	 	border: 0;
+	 	border-radius: 40px;
+	 	width: 40%;
+ 	}
+}
+
+@media(min-width: 768px) and (max-width: 960px) {
+	body {
+		font-size: 16px;
+	}
+}
+
+@media(min-width: 580px) and (max-width: 768px) {
+	.intro img {
+		height: 200px;
+	}
+	
+  	.about-info-panel p {
+    	color: #fff;
+    	font-size: 18px;
+  	}
+
+	.about-info-panel {
+	  	background-color: #000000;
+	  	border-radius: 5px;
+	  	margin: 1%;
+	  	padding: 15px;
+		margin-left: 0;
+	}
+
+	input[type="submit"] {
+	 	padding: 18px;
+	 	color: #fff;
+	 	font-size: 20px;
+	 	background-color: #d37802;
+	 	margin-top: 2%;
+	 	border: 0;
+	 	border-radius: 40px;
+	 	width: 40%;
+ 	}
+}
